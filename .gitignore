@@ -5,3 +5,6 @@ __pycache__/
 bench/*.log
 logscope-*.md
 src/logscope.egg-info/
+
+# graphify-axet
+.graphify/
