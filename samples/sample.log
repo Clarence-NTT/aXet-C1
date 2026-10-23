@@ -1,0 +1,177 @@
+2026-10-01 08:00:00.000 INFO [api] Request completed in 42 ms
+2026-10-01 08:00:05.000 WARNING [worker] Queue depth reached 17
+2026-10-01 08:00:10.000 ERROR [payment-api] Timeout calling bank gateway after 3000 ms (order_id=88123)
+garbage text with no structure
+
+2026-10-01 08:00:15.000 INFO [api] Request completed in 1833 ms
+2026-10-01 08:00:16.030 INFO [payment-api] Request completed in 4602 ms
+2026-10-01 08:00:21.314 INFO [api] Request completed in 3467 ms
+2026-10-01 08:00:25.413 INFO [worker] Request completed in 3768 ms
+2026-10-01 08:00:32.046 INFO [worker] Cache refreshed for tenant 94
+2026-10-01 08:00:33.435 INFO [worker] User 5374 authenticated successfully
+2026-10-01 08:00:39.181 INFO [auth] Cache refreshed for tenant 97
+2026-10-01 08:00:42.591 WARN [payment-api] WARNING token rotation due in 256 minutes
+2026-10-01 08:00:44.843 INFO [checkout] Cache refreshed for tenant 56
+2026-10-01 08:00:45.999 INFO [auth] User 8668 authenticated successfully
+2026-10-01 08:00:52.548 INFO [worker] User 8433 authenticated successfully
+2026-10-01 08:00:58.853 INFO [checkout] Request completed in 3068 ms
+2026-10-01 08:01:02.872 WARN [worker] Retrying partner call after 1966 ms
+2026-10-01 08:01:04.650 INFO [payment-api] User 3705 authenticated successfully
+2026-10-01 08:01:10.969 INFO [worker] Cache refreshed for tenant 41
+garbage text with no structure
+2026-10-01 08:01:18.263 INFO [worker] Request completed in 2286 ms
+2026-10-01 08:01:22.457 INFO [auth] User 1887 authenticated successfully
+2026-10-01 08:01:28.804 INFO [api] Request completed in 4398 ms
+2026-10-01 08:01:30.257 INFO [checkout] Cache refreshed for tenant 21
+2026-10-01 08:01:34.475 INFO [api] Request completed in 3203 ms
+2026-10-01 08:01:37.697 INFO [checkout] Request completed in 2574 ms
+2026-10-01 08:01:39.767 INFO [payment-api] Cache refreshed for tenant 89
+2026-10-01 08:01:46.500 INFO [worker] Cache refreshed for tenant 50
+2026-10-01 08:01:48.050 INFO [worker] User 5002 authenticated successfully
+2026-10-01 08:01:53.876 INFO [api] Cache refreshed for tenant 27
+2026-10-01 08:01:57.164 INFO [worker] Cache refreshed for tenant 72
+2026-13-45 09:00:00 INFO [api] impossible date
+2026-10-01 08:02:06.477 INFO [auth] User 1158 authenticated successfully
+2026-10-01 08:02:12.042 INFO [payment-api] User 6862 authenticated successfully
+2026-10-01 08:02:17.809 WARN [payment-api] Queue depth reached 378
+2026-10-01 08:02:20.972 INFO [api] Request completed in 3860 ms
+2026-10-01 08:02:22.996 INFO [auth] Request completed in 2291 ms
+2026-10-01 08:02:26.178 INFO [worker] Cache refreshed for tenant 50
+2026-10-01 08:02:29.223 INFO [api] Cache refreshed for tenant 65
+2026-10-01 08:02:36.091 INFO [worker] Cache refreshed for tenant 61
+2026-10-01 08:02:42.479 INFO [payment-api] User 9977 authenticated successfully
+2026-10-01 08:02:46.931 INFO [payment-api] Cache refreshed for tenant 46
+2026-10-01 08:02:53.248 INFO [payment-api] Request completed in 2010 ms
+2026-10-01 08:02:59.961 INFO [auth] Cache refreshed for tenant 64
+2026-10-01 08:03:01.428 INFO [auth] Cache refreshed for tenant 66
+2026-10-01 08:03:04.189 INFO [auth] Request completed in 2276 ms
+2026-10-01 08:03:10.481 INFO [worker] Cache refreshed for tenant 29
+2026-10-01 08:03:11.905 INFO [checkout] Request completed in 1699 ms
+2026-10-01 08:03:15.911 INFO [worker] User 9947 authenticated successfully
+2026-10-01 09:00:00 DEBUG [api] unsupported level
+2026-10-01 08:03:27.103 WARN [payment-api] Queue depth reached 304
+2026-10-01 08:03:29.990 INFO [api] User 8449 authenticated successfully
+2026-10-01 08:03:33.844 INFO [api] Request completed in 2871 ms
+2026-10-01 08:03:36.048 INFO [checkout] Request completed in 3884 ms
+2026-10-01 08:03:39.219 INFO [api] Request completed in 2553 ms
+2026-10-01 08:03:40.825 INFO [payment-api] User 2983 authenticated successfully
+2026-10-01 08:03:47.204 INFO [worker] User 2729 authenticated successfully
+2026-10-01 08:03:51.384 INFO [worker] Cache refreshed for tenant 65
+2026-10-01 08:03:52.669 INFO [payment-api] Cache refreshed for tenant 13
+2026-10-01 08:03:56.485 WARN [worker] WARNING token rotation due in 486 minutes
+2026-10-01 08:04:01.053 INFO [auth] User 1282 authenticated successfully
+2026-10-01 08:04:04.732 INFO [auth] User 6419 authenticated successfully
+2026-10-01 08:04:06.855 INFO [worker] Cache refreshed for tenant 37
+2026-10-01 08:04:08.707 INFO [payment-api] User 9751 authenticated successfully
+2026-10-01 08:04:14.836 INFO [auth] Request completed in 4707 ms
+2026-10-01 08:04:18.718 INFO [api] Request completed in 4731 ms
+2026-10-01 08:04:20.289 INFO [checkout] Cache refreshed for tenant 58
+2026-10-01 08:04:23.871 ERROR [checkout] Timeout calling bank gateway after 1707 ms (order_id=20641)
+2026-10-01 08:04:28.947 INFO [auth] Cache refreshed for tenant 14
+2026-10-01 08:04:30.650 WARNING [worker] WARNING token rotation due in 59 minutes
+2026-10-01 08:04:34.496 INFO [api] User 5728 authenticated successfully
+2026-10-01 08:04:38.008 INFO [auth] Request completed in 3544 ms
+2026-10-01 08:04:44.849 INFO [api] Request completed in 3859 ms
+2026-10-01 08:04:51.682 INFO [api] User 6260 authenticated successfully
+2026-10-01 08:04:55.360 INFO [checkout] Request completed in 2581 ms
+2026-10-01 08:04:59.415 INFO [worker] User 1845 authenticated successfully
+2026-10-01 08:05:05.911 WARNING [checkout] WARNING token rotation due in 8 minutes
+2026-10-01 08:05:07.383 INFO [payment-api] Cache refreshed for tenant 44
+2026-10-01 08:05:12.531 INFO [checkout] Request completed in 576 ms
+2026-10-01 08:05:16.274 INFO [checkout] Cache refreshed for tenant 67
+2026-10-01 08:05:20.603 INFO [payment-api] Request completed in 3370 ms
+2026-10-01 08:05:24.640 INFO [checkout] Request completed in 3611 ms
+2026-10-01 08:05:29.531 INFO [payment-api] User 7512 authenticated successfully
+2026-10-01 08:05:34.567 INFO [payment-api] User 2480 authenticated successfully
+2026-10-01 08:05:40.873 INFO [api] Request completed in 2408 ms
+2026-10-01 08:05:46.571 INFO [payment-api] Cache refreshed for tenant 73
+2026-10-01 08:05:52.831 WARN [api] Retrying partner call after 2361 ms
+2026-10-01 08:05:59.265 WARN [auth] Queue depth reached 122
+2026-10-01 09:00:00 INFO missing service
+2026-10-01 08:06:08.575 WARN [api] WARNING token rotation due in 311 minutes
+2026-10-01 08:06:13.831 INFO [payment-api] Cache refreshed for tenant 66
+2026-10-01 08:06:15.133 INFO [auth] Request completed in 4423 ms
+2026-10-01 08:06:18.897 INFO [api] Request completed in 1158 ms
+2026-10-01 08:06:20.706 INFO [worker] User 5295 authenticated successfully
+2026-10-01 08:06:24.731 INFO [checkout] Cache refreshed for tenant 91
+2026-10-01 08:06:25.874 INFO [api] User 2592 authenticated successfully
+2026-10-01 08:06:29.560 INFO [checkout] Cache refreshed for tenant 93
+2026-10-01 08:06:35.939 ERROR [auth] Database deadlock detected on shard 12
+2026-10-01 08:06:39.133 INFO [auth] Request completed in 4896 ms
+2026-10-01 08:06:40.982 INFO [payment-api] Request completed in 2696 ms
+2026-10-01 08:06:43.094 INFO [api] User 6304 authenticated successfully
+2026-10-01 08:06:48.210 INFO [auth] User 2786 authenticated successfully
+2026-10-01 08:06:52.868 ERROR [api] Database deadlock detected on shard 3
+2026-10-01 08:06:58.019 INFO [worker] Cache refreshed for tenant 58
+2026-10-01 08:06:59.831 INFO [checkout] Request completed in 3528 ms
+2026-10-01 08:07:05.928 INFO [worker] User 8770 authenticated successfully
+2026-10-01 08:07:12.684 INFO [payment-api] Cache refreshed for tenant 95
+2026-10-01 08:07:18.736 INFO [checkout] Request completed in 4739 ms
+2026-10-01 08:07:22.601 INFO [api] Cache refreshed for tenant 81
+2026-10-01 08:07:23.785 WARN [worker] Retrying partner call after 55 ms
+2026-10-01 08:07:30.433 INFO [api] Request completed in 3086 ms
+2026-10-01 08:07:36.043 INFO [api] Cache refreshed for tenant 44
+2026-10-01 08:07:40.322 INFO [checkout] User 5640 authenticated successfully
+2026-10-01 08:07:41.547 INFO [checkout] Request completed in 2474 ms
+2026-10-01 08:07:43.056 INFO [payment-api] Cache refreshed for tenant 81
+2026-10-01 08:07:49.099 WARN [auth] Retrying partner call after 4721 ms
+2026-10-01 08:07:53.120 WARNING [payment-api] WARNING token rotation due in 224 minutes
+2026-10-01 08:07:58.200 INFO [worker] Request completed in 2733 ms
+2026-10-01 08:08:01.559 INFO [payment-api] Request completed in 2101 ms
+2026-10-01 08:08:06.331 INFO [checkout] Cache refreshed for tenant 29
+2026-10-01 08:08:09.936 INFO [checkout] User 1616 authenticated successfully
+2026-10-01 08:08:15.544 INFO [auth] Cache refreshed for tenant 83
+2026-10-01 08:08:20.698 INFO [auth] User 9266 authenticated successfully
+2026-10-01 08:08:25.234 INFO [payment-api] User 7697 authenticated successfully
+2026-10-01 08:08:26.571 INFO [auth] Cache refreshed for tenant 52
+2026-10-01 08:08:33.286 INFO [payment-api] Request completed in 2541 ms
+2026-10-01 08:08:39.972 INFO [worker] User 4509 authenticated successfully
+2026-10-01 08:08:42.051 INFO [api] Cache refreshed for tenant 94
+2026-10-01 08:08:44.217 WARNING [checkout] Queue depth reached 187
+2026-10-01 08:08:51.019 INFO [checkout] User 7026 authenticated successfully
+2026-10-01 08:08:55.533 WARNING [payment-api] WARNING token rotation due in 329 minutes
+2026-10-01 08:09:02.399 INFO [api] Request completed in 2239 ms
+2026-10-01 08:09:05.426 INFO [auth] Request completed in 3168 ms
+
+2026-10-01 08:09:12.278 INFO [auth] Request completed in 654 ms
+2026-10-01 08:09:14.586 INFO [payment-api] Cache refreshed for tenant 24
+2026-10-01 08:09:20.733 INFO [api] Request completed in 4679 ms
+2026-10-01 08:09:22.271 INFO [checkout] User 1713 authenticated successfully
+2026-10-01 08:09:26.078 INFO [payment-api] Cache refreshed for tenant 27
+2026-10-01 08:09:32.553 INFO [auth] Request completed in 521 ms
+2026-10-01 08:09:33.876 INFO [checkout] Cache refreshed for tenant 14
+2026-10-01 08:09:35.762 INFO [worker] User 7553 authenticated successfully
+2026-10-01 08:09:42.271 INFO [checkout] Request completed in 3482 ms
+2026-10-01 08:09:43.606 INFO [worker] Cache refreshed for tenant 98
+2026-10-01 08:09:49.051 INFO [api] Cache refreshed for tenant 75
+2026-10-01 08:09:54.745 INFO [api] Request completed in 3005 ms
+2026-10-01 08:10:01.205 INFO [worker] Request completed in 4706 ms
+2026-13-45 09:00:00 INFO [api] impossible date
+2026-10-01 08:10:07.851 INFO [checkout] User 4515 authenticated successfully
+2026-10-01 08:10:09.313 ERROR [auth] Downstream 502 from partner 407 trace=0x50a4
+2026-10-01 08:10:16.039 WARNING [payment-api] WARNING token rotation due in 406 minutes
+2026-10-01 08:10:17.408 INFO [worker] Cache refreshed for tenant 18
+2026-10-01 08:10:22.251 ERROR [payment-api] Downstream 502 from partner 231 trace=0x5d2a
+2026-10-01 08:10:24.694 WARN [api] WARNING token rotation due in 83 minutes
+2026-10-01 08:10:25.950 INFO [checkout] Cache refreshed for tenant 21
+2026-10-01 08:10:28.624 INFO [checkout] Cache refreshed for tenant 20
+2026-10-01 08:10:34.050 INFO [api] Cache refreshed for tenant 92
+2026-10-01 08:10:37.514 INFO [api] User 8609 authenticated successfully
+2026-10-01 08:10:44.395 INFO [auth] User 2739 authenticated successfully
+2026-10-01 08:10:46.539 WARN [worker] WARNING token rotation due in 417 minutes
+2026-10-01 08:10:51.066 INFO [worker] Request completed in 3226 ms
+2026-10-01 08:10:52.117 WARN [checkout] WARNING token rotation due in 5 minutes
+2026-10-01 08:10:58.491 INFO [worker] Request completed in 4676 ms
+2026-10-01 08:11:03.777 INFO [checkout] Request completed in 1059 ms
+2026-10-01 08:11:06.393 INFO [checkout] Request completed in 1127 ms
+2026-10-01 08:11:10.020 ERROR [auth] Downstream 502 from partner 825 trace=0x997e
+2026-10-01 09:00:00 DEBUG [api] unsupported level
+2026-10-01 08:11:20.967 INFO [checkout] Cache refreshed for tenant 43
+2026-10-01 08:11:26.458 INFO [checkout] User 4968 authenticated successfully
+2026-10-01 08:11:29.886 INFO [payment-api] Cache refreshed for tenant 27
+2026-10-01 08:11:35.271 INFO [payment-api] Cache refreshed for tenant 55
+2026-10-01 08:11:37.523 INFO [worker] User 4396 authenticated successfully
+2026-10-01 08:11:43.337 INFO [worker] Cache refreshed for tenant 60
+2026-10-01 08:11:47.068 INFO [auth] Cache refreshed for tenant 35
+2026-10-01 08:11:49.179 INFO [checkout] Request completed in 4355 ms
+2026-10-01 08:11:55.662 INFO [payment-api] Cache refreshed for tenant 93

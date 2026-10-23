@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 bench/*.log
 logscope-*.md
+src/logscope.egg-info/
