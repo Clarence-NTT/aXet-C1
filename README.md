@@ -34,7 +34,33 @@ wsl -d Ubuntu --cd /mnt/c/Users/clarence.quek/Documents/assignment/axet/C1/aXet-
 ### 3. Generate 10 MB and 100 MB logs and run the benchmark
 
 ```bash
-wsl -d Ubuntu --cd /mnt/c/Users/clarence.quek/Documents/assignment/axet/C1/aXet-C1 -- /bin/sh -lc '. .venv/bin/activate && mkdir -p bench && python scripts/gen_log.py --size 10MB --out bench/small.log --seed 42 --malformed-rate 0.03 && python scripts/gen_log.py --size 100MB --out bench/big.log --seed 42 --malformed-rate 0.03 && python scripts/bench.py bench/small.log && python scripts/bench.py bench/big.log && cat BENCHMARK.md'
+# 3a. create the bench/ output directory
+wsl -d Ubuntu --cd /mnt/c/Users/clarence.quek/Documents/assignment/axet/C1/aXet-C1 -- /bin/sh -lc 'mkdir -p bench'
+```
+
+```bash
+# 3b. generate a 10 MB log
+wsl -d Ubuntu --cd /mnt/c/Users/clarence.quek/Documents/assignment/axet/C1/aXet-C1 -- /bin/sh -lc '. .venv/bin/activate && python scripts/gen_log.py --size 10MB --out bench/small.log --seed 42 --malformed-rate 0.03'
+```
+
+```bash
+# 3c. generate a 100 MB log
+wsl -d Ubuntu --cd /mnt/c/Users/clarence.quek/Documents/assignment/axet/C1/aXet-C1 -- /bin/sh -lc '. .venv/bin/activate && python scripts/gen_log.py --size 100MB --out bench/big.log --seed 42 --malformed-rate 0.03'
+```
+
+```bash
+# 3d. benchmark the 10 MB log
+wsl -d Ubuntu --cd /mnt/c/Users/clarence.quek/Documents/assignment/axet/C1/aXet-C1 -- /bin/sh -lc '. .venv/bin/activate && python scripts/bench.py bench/small.log'
+```
+
+```bash
+# 3e. benchmark the 100 MB log
+wsl -d Ubuntu --cd /mnt/c/Users/clarence.quek/Documents/assignment/axet/C1/aXet-C1 -- /bin/sh -lc '. .venv/bin/activate && python scripts/bench.py bench/big.log'
+```
+
+```bash
+# 3f. view the recorded results
+wsl -d Ubuntu --cd /mnt/c/Users/clarence.quek/Documents/assignment/axet/C1/aXet-C1 -- /bin/sh -lc 'cat BENCHMARK.md'
 ```
 
 ### 4. Malformed-line count is reported by every command
