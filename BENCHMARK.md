@@ -1,11 +1,11 @@
 # Benchmark results
 
-- Generated at: `2026-10-23T11:29:54.238667`
+- Generated at: `2026-10-23T11:46:23.517583`
 - Python: `3.14.4`
-- File: `samples/sample.log`
+- File: `bench/big.log`
 
 | Command | Seconds | Peak MB |
 |---|---:|---:|
-| summary | 0.36 | 0.05 |
-| timeline --bucket 15m | 0.33 | 0.05 |
-| grep --level ERROR | 0.35 | 0.05 |
+| summary | 7.01 | 0.05 |
+| timeline --bucket 15m | 6.63 | 0.05 |
+| grep --level ERROR | 6.82 | 0.05 |
