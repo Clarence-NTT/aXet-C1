@@ -1,127 +1,15 @@
-commit 4b8df88eb505b1f4a229d3aa640c4d6a33418287 (HEAD -> main, origin/main, origin/HEAD)
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-28 21:56:18 +0800
-
-    docs: refresh benchmark results
-    
-    Generated with aXet.code
-    
-    Assisted-by: GPT-5.4 via aXet.code <noreply@axetcode.local>
-
-commit 734a2a5622a27a7427488b5e2fa2407301e2b3b1
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-28 21:50:13 +0800
-
-    docs: split benchmark command into individual steps
-    
-    Generated with aXet.code
-    
-    Assisted-by: GPT-5.4 via aXet.code <noreply@axetcode.local>
-
-commit 03919d69f069a9e981c4c181f87898928ad73406
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-28 21:27:55 +0800
-
-    docs: update benchmark results for 100MB run
-    
-    Generated with aXet.code
-    
-    Assisted-by: GPT-5.4 via aXet.code <noreply@axetcode.local>
-
-commit 57e5fc0559a0df9c08b19ea32e481af38626684e
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-28 21:23:14 +0800
-
-    docs: expand README with split acceptance-check commands
-    
-    Generated with aXet.code
-    
-    Assisted-by: GPT-5.4 via aXet.code <noreply@axetcode.local>
-
-commit 81fad6c8ed37774c413f11b21dcc5806649ab348
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-23 11:43:01 +0800
-
-    Add acceptance criteria commands to readme markdown
-
-commit 8545a88359a03aef0faadfed95d7883d83b37a6e
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-23 11:30:17 +0800
-
-    perf: add sample generator and benchmark results
-    
-    Generated with aXet.code
-    
-    Assisted-by: GPT-5.4 via aXet.code <noreply@axetcode.local>
-
-commit b70c575a928057ee083d841f777a00f3d3b62286
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-23 11:24:34 +0800
-
-    feat(cli): add output formats and command dispatch
-    
-    Generated with aXet.code
-    
-    Assisted-by: GPT-5.4 via aXet.code <noreply@axetcode.local>
-
-commit f3c6c95c8aaf5b95eeb1feed93769a1ff210c0a6
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-23 11:23:40 +0800
-
-    feat(grep): filter log lines by criteria
-    
-    Generated with aXet.code
-    
-    Assisted-by: GPT-5.4 via aXet.code <noreply@axetcode.local>
-
-commit 6ae2e4610a52d9bce8e6198b0c8f1adb66ca8910
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-23 11:23:00 +0800
-
-    feat(timeline): chart bucketed log counts
-    
-    Generated with aXet.code
-    
-    Assisted-by: GPT-5.4 via aXet.code <noreply@axetcode.local>
-
-commit f85ec3a8b3168d6d423a084d4d828d39ef239d49
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-23 11:22:03 +0800
-
-    feat(summary): level counts, time range, top errors
-    
-    Generated with aXet.code
-    
-    Assisted-by: GPT-5.4 via aXet.code <noreply@axetcode.local>
-
-commit e9dde7512820b1c75399f7ea99151b76013c103e
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-23 11:19:04 +0800
-
-    feat(parser): parse log lines and count malformed
-    
-    Generated with aXet.code
-    
-    Assisted-by: GPT-5.4 via aXet.code <noreply@axetcode.local>
-
-commit 90e1ea83d6bdad43f726bf6c591c929dc4beefff
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-23 11:10:03 +0800
-
-    docs: add spec, instructions, and plan
-    
-    Generated with aXet.code
-    
-    Assisted-by: GPT-5.4 via aXet.code <noreply@axetcode.local>
-
-commit 98643e5766fe1f104e80ea75f265ca40daea9dfb
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-23 09:54:36 +0800
-
-    Added gitignore
-
-commit 5746bf0acc3f4527abdc12c91ba9105402046431
-Author: Clarence-NTT <clarence.quek@global.ntt>
-Date:   2026-10-22 10:31:01 +0800
-
-    Initial commit
+* ca94632 (HEAD -> main, origin/main, origin/HEAD) docs: add commit log export
+* 4b8df88 docs: refresh benchmark results
+* 734a2a5 docs: split benchmark command into individual steps
+* 03919d6 docs: update benchmark results for 100MB run
+* 57e5fc0 docs: expand README with split acceptance-check commands
+* 81fad6c Add acceptance criteria commands to readme markdown
+* 8545a88 perf: add sample generator and benchmark results
+* b70c575 feat(cli): add output formats and command dispatch
+* f3c6c95 feat(grep): filter log lines by criteria
+* 6ae2e46 feat(timeline): chart bucketed log counts
+* f85ec3a feat(summary): level counts, time range, top errors
+* e9dde75 feat(parser): parse log lines and count malformed
+* 90e1ea8 docs: add spec, instructions, and plan
+* 98643e5 Added gitignore
+* 5746bf0 Initial commit
